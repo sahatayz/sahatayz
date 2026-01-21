@@ -61,4 +61,10 @@ I enjoy reasoning about correctness, identifying edge cases, and translating com
   Focused on production-oriented development, collaboration, and maintainable business logic.
 
 ### 🔐 Smart Contracts (Personal)
-- **[eth-based-auction-usin]()**
+- **[eth-based-auction-using-low-level-call](https://github.com/sahatayz/eth-based-auction-using-low-level-call)**  
+  Auction mechanics using low-level calls — a compact playground for security reasoning and edge-case analysis.
+
+- **[token-presale-contract](https://github.com/sahatayz/token-presale-contract)**  
+  Token presale logic with emphasis on access control, limits, and validation patterns.
+
+---
